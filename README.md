@@ -6,7 +6,10 @@ No projeto One For All, foram usadas algumas tabelas para revisar e consolidar t
 
 Planilhas não normalizadas foram normalizadas e populadas em um banco de dados para que fosse possível executar queries com o intuito de encontrar as informações solicitadas.
 
-Abaixo seguem os desafios que foram dados pelo projeto.
+## O que foi utilizado?
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Desafio 1
 
